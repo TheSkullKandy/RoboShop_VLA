@@ -1,0 +1,10 @@
+streamlit>=1.36.0
+ultralytics>=8.0.0
+transformers>=4.41.0
+torch>=2.3.0
+pydantic>=2.8.0
+jsonschema>=4.21.1
+Pillow>=10.3.0
+numpy>=1.26.0
+pandas>=2.2.0
+opencv-python>=4.9.0
